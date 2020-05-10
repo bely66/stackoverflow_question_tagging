@@ -1,12 +1,16 @@
 # stackoverflow_question_tagging
 Solving the multiclass label problem using classical feature extraction and machine learning
 
-## Content
+## Content :
+### 1st Notbook :
+
 `Text Processing & Feature Extraction.ipynb` 
 
 Notebook for reviewing and trying classical feature extraction on kaggle sentiment analysis dataset
 
 https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+
+### 2nd Notbook :
 
 `stackoverflow_question_tagging.ipynb`
 
